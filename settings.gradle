@@ -1,0 +1,2 @@
+rootProject.name = "DiceImgRandom"
+include ':app'
